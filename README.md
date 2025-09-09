@@ -1,4 +1,4 @@
-# 🌟 MultiCritique: Training Language Models to Critique With Multi-agent Feedback
+# MultiCritique: Training Language Models to Critique With Multi-agent Feedback
 
 [![arXiv](https://img.shields.io/badge/arXiv-2410.15287-b31b1b.svg)](https://arxiv.org/abs/2410.15287)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
